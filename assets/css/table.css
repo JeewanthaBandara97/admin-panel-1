@@ -1,0 +1,96 @@
+
+table, th, td {  
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;  
+  font-size: 15px; 
+}
+
+
+tr .UN {
+  text-align: left;
+  padding: 8px;
+  font-size: 30px;
+}
+
+tr .LO {
+  text-align: right;
+  padding: 8px;
+   font-size: 25px;
+}
+
+
+table#tusers  {
+    width:60%;   
+}
+table#tusers tr:nth-child(even) {
+  background-color: #eee;
+
+}
+table#tusers tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#tusers th {
+  background-color: black;
+  color: white;
+}
+
+
+
+
+table#tvehicles  {
+    width:90%;   
+}
+table#tvehicles tr:nth-child(even) {
+  background-color: #eee;
+
+}
+table#tvehicles tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#tvehicles th {
+  background-color: black;
+  color: white;
+}
+
+
+
+
+table#timg  {
+    width:90%;   
+}
+table#timg tr:nth-child(even) {
+  background-color: #eee;
+
+}
+table#timg tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#timg th {
+  background-color: black;
+  color: white;
+}
+
+
+
+table#tmsg  {
+    width:60%;   
+}
+table#tmsg tr:nth-child(even) {
+  background-color: #eee;
+
+}
+table#tmsg tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#tmsg th {
+  background-color: black;
+  color: white;
+}
+
+ 
+
+
+
+
